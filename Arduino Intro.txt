@@ -1,0 +1,37 @@
+Theory (recommended reading but not strictly necessary):
+  https://learn.sparkfun.com/tutorials/what-is-electricity
+  https://learn.sparkfun.com/tutorials/what-is-a-circuit/all
+
+References:
+  Arduino Uno Diagram (Simple):
+    https://www.theengineeringprojects.com/wp-content/uploads/2018/06/Introduction-to-Arduino-UNO.jpg
+  Arduino Uno Diagram (Full):
+    https://www.theengineeringprojects.com/wp-content/uploads/2018/06/Introduction-to-Arduino-UNO.png
+  Arduino Programming Language Reference:
+    https://www.arduino.cc/reference/en/
+  LED Diagram:
+      https://www.switchelectronics.co.uk/blog/post/ledpolarity.html
+  Breadboard Diagram:
+      https://www.flickr.com/photos/buildcircuit/8016442759/
+
+Introduction:
+  What is Arduino? Basics and Design:
+    https://learn.sparkfun.com/tutorials/what-is-an-arduino/all
+  Getting started with the Arduino Uno (installation and basics):
+    https://www.arduino.cc/en/Guide/ArduinoUno/
+
+Projects:
+  LED Blink Tutorial:
+    https://www.instructables.com/Arduino-Blinking-LED/
+  Multiple LED Blinking:
+    https://www.instructables.com/Multiple-Blinking-LED-on-the-Arduino/
+  Speaker Melody Tutorial:
+    https://www.arduino.cc/en/Tutorial/BuiltInExamples/toneMelody/
+
+Note: I didn't have enough of the flexible wires to give you, but the
+flat colored ones will work and are actually kinda better bc they won't jiggle
+loose while you are tinkering with the other stuff! Double check
+all the wiring against the diagrams before you connect the circuit, and never
+add/remove components while it is plugged in and powered on! You won't get shocked
+or anything but there is a small chance the board could get fried. If it does,
+not worries, it was like 3 dollars lol. Have fun! <3
